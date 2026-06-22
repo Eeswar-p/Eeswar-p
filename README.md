@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Eeswar
 
-<!--
-**Eeswar-p/Eeswar-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 GitHub Dashboard
 
-Here are some ideas to get you started:
+A web application to analyze GitHub profiles and repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Live Demo
+[View Dashboard](https://github-dashboard-nu-plum.vercel.app/)
+
+### 💻 Source Code
+[GitHub Repository](https://github.com/Eeswar-p/Github-Dashboard)
+
+## 🛠️ Tech Stack
+
+- React.js
+- JavaScript
+- GitHub API
+- Vercel
