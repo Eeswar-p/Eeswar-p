@@ -17,7 +17,7 @@
 * 🤖 Deeply interested in **Machine Learning**, **Deep Learning**, **LLMs**, and **Generative AI**.
 * 💻 Skilled in **Python**, **Java**, **JavaScript**, **SQL**, and **Full Stack Development**.
 * 🛠️ Experienced in building real-world AI-powered applications with full stack systems.
-* 🧠 Strong problem-solving mindset with over **500+ DSA problems** solved.
+* 🧠 Interested in solving DSA Problems.
 * 🚀 Specialization in AI-Driven Language Technologies and **NLP pipelines**.
 * ⚡ Continuously learning **Cloud Computing**, **System Design**, and **MLOps** for production-grade deployments.
 
@@ -104,7 +104,7 @@
 
 * Completed AI/ML with AWS Internship (EduSkills)
 * Active Hackathon Participant
-* Solved over 500+ Data Structures & Algorithms (DSA) problems
+* Solved  Data Structures & Algorithms (DSA) problems
 * AWS Cloud Learning Path
 * Active Open Source Contributor
 
