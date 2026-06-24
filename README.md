@@ -1,7 +1,5 @@
 # Hey 👋, I'm P Eswar
 
----
-
 <p align="center">
   <b>B.Tech CSE Student (AI-Driven Language Technologies) | AI/ML Enthusiast | Full Stack Developer</b>
 </p>
@@ -12,32 +10,24 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h3>👤 About Me</h3>
-      <ul>
-        <li>🎓 <b>B.Tech CSE Student</b> specializing in AI-Driven Language Technologies.</li>
-        <li>🧠 Passionate about <b>Artificial Intelligence</b> and <b>Software Engineering</b>, with a focus on building practical and impactful AI-powered products.</li>
-        <li>🤖 Deeply interested in <b>Machine Learning</b>, <b>Deep Learning</b>, <b>LLMs</b>, and <b>Generative AI</b>.</li>
-        <li>💻 Skilled in <b>Python</b>, <b>Java</b>, <b>JavaScript</b>, <b>SQL</b>, and <b>Full Stack Development</b>.</li>
-        <li>🛠️ Experienced in building real-world AI-powered applications with full stack systems.</li>
-        <li>🧠 Strong problem-solving mindset with over <b>500+ DSA problems</b> solved.</li>
-        <li>🚀 Specialization in AI-Driven Language Technologies and <b>NLP pipelines</b>.</li>
-        <li>⚡ Continuously learning <b>Cloud Computing</b>, <b>System Design</b>, and <b>MLOps</b> for production-grade deployments.</li>
-      </ul>
-    </td>
-    <td valign="top" width="40%">
-      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/developer_activity.svg" alt="Developer Activity Illustration" width="100%" />
-    </td>
-  </tr>
-</table>
+## 👤 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/christopherrobinson/christopherrobinson/master/undraw_developer_activity.svg" alt="Developer Activity Illustration" width="38%" />
+
+- 🎓 **B.Tech CSE Student** specializing in AI-Driven Language Technologies.
+- 🧠 Passionate about **Artificial Intelligence** and **Software Engineering**, with a focus on building practical and impactful AI-powered products.
+- 🤖 Deeply interested in **Machine Learning**, **Deep Learning**, **LLMs**, and **Generative AI**.
+- 💻 Skilled in **Python**, **Java**, **JavaScript**, **SQL**, and **Full Stack Development**.
+- 🛠️ Experienced in building real-world AI-powered applications with full stack systems.
+- 🧠 Strong problem-solving mindset with over **500+ DSA problems** solved.
+- 🚀 Specialization in AI-Driven Language Technologies and **NLP pipelines**.
+- ⚡ Continuously learning **Cloud Computing**, **System Design**, and **MLOps** for production-grade deployments.
+
+<br clear="right" />
 
 ---
 
-### 🌐 Connect With Me
-
----
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Eeswar-p" target="_blank">
@@ -53,9 +43,7 @@
 
 ---
 
-### 🚀 Tech Stack
-
----
+## 🚀 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -65,9 +53,7 @@
 
 ---
 
-### 🤖 AI / ML Focus Areas
-
----
+## 🤖 AI / ML Focus Areas
 
 - Machine Learning
 - Deep Learning
@@ -79,9 +65,7 @@
 
 ---
 
-### 🚀 Featured Projects
-
----
+## 🚀 Featured Projects
 
 #### 🏦 [ATM Application](https://github.com/Eeswar-p/ATM-Application)
 - Developed a Java-based Bank Account Management system.
@@ -105,9 +89,7 @@
 
 ---
 
-### 💡 Currently Learning
-
----
+## 💡 Currently Learning
 
 - Learning Large Language Models (LLMs) and Generative AI
 - Building AI-powered SaaS applications
@@ -116,9 +98,7 @@
 
 ---
 
-### 🏅 Achievements
-
----
+## 🏅 Achievements
 
 - Completed AI/ML with AWS Internship (EduSkills)
 - Active Hackathon Participant
@@ -128,9 +108,7 @@
 
 ---
 
-### 📈 Contribution Graph
-
----
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eeswar-p&theme=react-dark" alt="P Eswar's Contribution Graph" />
@@ -138,9 +116,7 @@
 
 ---
 
-### 📊 Profile Views
-
----
+## 📊 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Eeswar-p&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views" />
