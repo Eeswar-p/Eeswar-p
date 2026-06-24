@@ -1,193 +1,155 @@
-<!-- 
-  Premium AI Engineer GitHub Profile README
-  Replace placeholders:
-  - YOUR_GITHUB_USERNAME
-  - YOUR_LINKEDIN
-  - YOUR_PROFILE_LINKS
-  - PROJECT_LINKS
-  - IMAGE_URLS
--->
-
-<div align="center">
-
-<img src="https://i.imgur.com/your-ai-banner.gif" width="100%" />
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Software+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer" />
-
-<h1>
-Hey 👋, I'm Prathipati Eswar
-</h1>
-
-<h3>
-B.Tech CSE Student (AI-Driven Language Technologies)
-</h3>
-
-<p>
-Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer
-</p>
-
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00ffff&style=flat" />
-
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=blue" />
-
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat&color=cyan" />
-
-</div>
-
+# Hey 👋, I'm P Eswar
 
 ---
 
-## 🧠 About Me
+<p align="center">
+  <b>B.Tech CSE Student (AI-Driven Language Technologies) | AI/ML Enthusiast | Full Stack Developer</b>
+</p>
 
-```yaml
-Name: Prathipati Eswar
+<h2 align="center">
+  <font color="#29b6f6">Aspiring Software Engineer</font>
+</h2>
 
-Education:
-  - B.Tech Computer Science Engineering
-  - Specialization: AI-Driven Language Technologies
+---
 
-Interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Deep Learning
-  - Large Language Models (LLMs)
-  - Generative AI
-  - Full Stack Development
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h3>👤 About Me</h3>
+      <ul>
+        <li>🎓 <b>B.Tech CSE Student</b> specializing in AI-Driven Language Technologies.</li>
+        <li>🧠 Passionate about <b>Artificial Intelligence</b> and <b>Software Engineering</b>, with a focus on building practical and impactful AI-powered products.</li>
+        <li>🤖 Deeply interested in <b>Machine Learning</b>, <b>Deep Learning</b>, <b>LLMs</b>, and <b>Generative AI</b>.</li>
+        <li>💻 Skilled in <b>Python</b>, <b>Java</b>, <b>JavaScript</b>, <b>SQL</b>, and <b>Full Stack Development</b>.</li>
+        <li>🛠️ Experienced in building real-world AI-powered applications with full stack systems.</li>
+        <li>🧠 Strong problem-solving mindset with over <b>500+ DSA problems</b> solved.</li>
+        <li>🚀 Specialization in AI-Driven Language Technologies and <b>NLP pipelines</b>.</li>
+        <li>⚡ Continuously learning <b>Cloud Computing</b>, <b>System Design</b>, and <b>MLOps</b> for production-grade deployments.</li>
+      </ul>
+    </td>
+    <td valign="top" width="40%">
+      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/developer_activity.svg" alt="Developer Activity Illustration" width="100%" />
+    </td>
+  </tr>
+</table>
 
-Currently:
-  - Building AI-powered applications
-  - Improving DSA & Problem Solving
-  - Exploring Cloud Computing & MLOps
+---
 
+### 🌐 Connect With Me
 
-⚡ Tech Stack
-👨‍💻 Languages
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
-🎨 Frontend
-<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/> </p>
-⚙️ Backend
-<p> <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot"/> <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/> </p>
-🤖 AI / ML
-<p> <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/> <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/> <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface"/> </p>
-☁️ Cloud & Tools
-<p> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/> <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker"/> <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/> </p>
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" /> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark" /> </div>
-🚀 Featured Projects
-<table> <tr> <td width="50%"> <h3>🤖 AI Resume Analyzer</h3>
+---
 
-AI-powered resume analysis platform.
+<p align="center">
+  <a href="https://github.com/Eeswar-p" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/eswar-prathipati/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/P_Eeswar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
 
-Features:
+---
 
-Resume Parsing
-Skill Extraction
-Job Matching
+### 🚀 Tech Stack
 
-Tech:
-Python | NLP | ML
+---
 
-🔗 GitHub Link
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,mysql,react,html,css,tailwind,spring,nodejs,fastapi,tensorflow,pytorch,sklearn,aws,git,github,docker,linux,vscode,postman" alt="My Tech Stack" />
+  </a>
+</p>
 
-</td> <td width="50%"> <h3>🧠 RAG Chatbot</h3>
+---
 
-Document intelligence chatbot.
+### 🤖 AI / ML Focus Areas
 
-Features:
+---
 
-PDF Question Answering
-Vector Database
-LangChain
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Data Science
+- Neural Networks
+- MLOps
 
-Tech:
-LLMs | RAG | Python
+---
 
-🔗 GitHub Link
+### 🚀 Featured Projects
 
-</td> </tr> <tr> <td> <h3>📰 News Aggregator</h3>
+---
 
-AI-based news processing platform.
+#### 🏦 [ATM Application](https://github.com/Eeswar-p/ATM-Application)
+- Developed a Java-based Bank Account Management system.
+- Implemented transaction processing, account validation, and secure operations.
+- Built using OOP concepts in Java.
 
-Features:
+#### 🎙️ [Python Voice Chat Assistant](https://github.com/Eeswar-p/python-voice-chat-assistant)
+- Implemented voice recognition and natural language processing.
+- Built real-time speech-to-text and text-to-speech interaction system.
+- Developed utilizing Python libraries for audio processing and NLP.
 
-Real-Time News
-Sentiment Analysis
-Summarization
+#### 📊 [Churn Analysis RAG LLM Architecture](https://github.com/Eeswar-p/Churn_analysis_RAG_LLM-Architecture)
+- Architected an AI-powered job recruitment and internship automation platform.
+- Integrated Retrieval-Augmented Generation (RAG) using Large Language Models (LLMs).
+- Developed backend systems with TypeScript to handle complex data queries.
 
-Tech:
-React | APIs | AI
+#### 🛡️ [Social Media Abuse & Toxicity Detection](https://github.com/Eeswar-p/Social-Media-Abuse-and-Toxicity-Detection-System)
+- Developed a FastAPI-based backend and React frontend for real-time abuse detection.
+- Implemented a 7-layer NLP pipeline to analyze and categorize text toxicity levels.
+- Built to monitor and filter abusive content across social platforms.
 
-🔗 GitHub Link
+---
 
-</td> <td> <h3>🔐 React + Spring Boot Authentication</h3>
+### 💡 Currently Learning
 
-Secure full-stack authentication system.
+---
 
-Features:
+- Learning Large Language Models (LLMs) and Generative AI
+- Building AI-powered SaaS applications
+- Improving System Design knowledge
+- Preparing for Software Engineering roles
 
-JWT Authentication
-User Management
+---
 
-Tech:
-React | Spring Boot
+### 🏅 Achievements
 
-🔗 GitHub Link
+---
 
-</td> </tr> <tr> <td> <h3>🩸 Blood Bank & Organ Donation System</h3>
+- Completed AI/ML with AWS Internship (EduSkills)
+- Active Hackathon Participant
+- Solved over 500+ Data Structures & Algorithms (DSA) problems
+- AWS Cloud Learning Path
+- Active Open Source Contributor
 
-Healthcare emergency platform.
+---
 
-Features:
+### 📈 Contribution Graph
 
-Real-Time Availability
-Emergency Response
+---
 
-Tech:
-Full Stack Development
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eeswar-p&theme=react-dark" alt="P Eswar's Contribution Graph" />
+</p>
 
-🔗 GitHub Link
+---
 
-</td> </tr> </table>
-🏆 Achievements
-<div align="center">
+### 📊 Profile Views
 
-🏆 AI/ML with AWS Internship — EduSkills
+---
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eeswar-p&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views" />
+</p>
 
-🚀 Hackathon Participant
+---
 
-<br>
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
-💻 500+ DSA Problems Solved
-
-<br>
-
-☁️ AWS Cloud Learning
-
-<br>
-
-🌎 Open Source Contributor
-
-</div>
-🌐 Coding Profiles
-<div align="center"> <a href="YOUR_GITHUB_LINK"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/> </a> <a href="YOUR_LINKEDIN_LINK"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="YOUR_LEETCODE_LINK"> <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/> </a> <a href="YOUR_HACKERRANK_LINK"> <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/> </a> <a href="YOUR_CODECHEF_LINK"> <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/> </a> <a href="YOUR_GFG_LINK"> <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge"/> </a> </div>
-🎯 Current Focus
-Learning:
-├── Large Language Models
-├── Generative AI
-├── AI Agents
-├── System Design
-└── MLOps
-
-
-Building:
-├── AI-powered SaaS Applications
-├── Intelligent Automation Tools
-└── Scalable Software Systems
-<div align="center">
-🚀 Building the future with AI and Software Engineering
-</div> ```
+<p align="center">
+  <b>Code • Learn • Build • Innovate</b>
+</p>
