@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 * 🎓 **B.Tech CSE Student** specializing in AI-Driven Language Technologies.
 * 🧠 Passionate about **Artificial Intelligence** and **Software Engineering**, with a focus on building practical and impactful AI-powered products.
