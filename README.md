@@ -4,9 +4,9 @@
   <b>B.Tech CSE Student (AI-Driven Language Technologies) | AI/ML Enthusiast | Full Stack Developer</b>
 </p>
 
-<h2 align="center">
-  <font color="#29b6f6">Aspiring Software Engineer</font>
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI Engineer;Software Developer;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Full Stack Developer" />
+</p>
 
 ---
 
