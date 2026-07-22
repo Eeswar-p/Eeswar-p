@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Engineer;Software+Developer;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Full+Stack+Developer" />
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -23,7 +22,6 @@
 
 <br clear="right"/>
 
----
 
 ## 🌐 Connect With Me
 
@@ -41,7 +39,6 @@
 </a>
 </p>
 
----
 
 ## 🚀 Tech Stack
 
@@ -49,7 +46,6 @@
 <img src="https://skillicons.dev/icons?i=py,java,js,mysql,react,html,css,tailwind,spring,nodejs,fastapi,tensorflow,pytorch,sklearn,aws,git,github,docker,linux,vscode,postman" />
 </p>
 
----
 
 ## 🤖 AI / ML Focus Areas
 
@@ -61,7 +57,6 @@
 * Neural Networks
 * MLOps
 
----
 
 ## 🚀 Featured Projects
 
@@ -89,7 +84,6 @@
 * Implemented a 7-layer NLP pipeline to analyze and categorize text toxicity levels.
 * Built to monitor and filter abusive content across social platforms.
 
----
 
 ## 💡 Currently Learning
 
@@ -98,7 +92,6 @@
 * Improving System Design knowledge
 * Preparing for Software Engineering roles
 
----
 
 ## 🏅 Achievements
 
@@ -108,7 +101,6 @@
 * AWS Cloud Learning Path
 * Active Open Source Contributor
 
----
 
 ## 📈 Contribution Graph
 
@@ -116,7 +108,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eeswar-p&theme=tokyo-night" />
 </p>
 
----
 
 ## 📊 Profile Views
 
@@ -124,7 +115,6 @@
 <img src="https://komarev.com/ghpvc/?username=Eeswar-p&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
